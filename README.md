@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @YURIRI-Galaxy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @YURIRI
 
-<!---
-YURIRI-Galaxy/YURIRI-Galaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<！---
+YURIRI-Galaxy / YURIRI-Galaxyは、その `README.md`（このファイル）がGitHubプロファイルに表示されるため、✨特別な✨リポジトリです。
 You can click the Preview link to take a look at your changes.
 --->
